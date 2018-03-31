@@ -31,7 +31,7 @@ services:
     links:
       - nginx
 
- lightning-charged:
+  lightning-charged:
     restart: always
     image: shesek/lightning-charge:0.3.5
     environment:

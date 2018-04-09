@@ -1,0 +1,6 @@
+#Wed, 07 Mar 2018 10:24:38 +0100
+
+info.app.version=0.1
+info.app.name=baas
+grails.env=development
+info.app.grailsVersion=3.3.2
